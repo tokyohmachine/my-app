@@ -1,38 +1,60 @@
-.App {
-  text-align: center;
+
+h1 {
+  font-family: 'markeziText';
+  font-size: 64px;
+  color: #F4CE14;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.submain {
+  color: #FFF;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h2 {
+  color: #000;
+  font-weight: 600;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+h2, .submain {
+  font-family: 'Karla';
+  font-size: 32px;
+}
+
+p {
+    color: #FFF;
+    margin-top: 30px;
+}
+
+.heroSection {
+  background-image: url('/public/images/joseph-gonzalez-rp3c2RMcwgw-unsplash.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.aboutOne {
+  width: 50%;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+}
+.aboutTwo {
+  width: 50%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.favorite {
+  color: gold; 
 }
+
+.not-favorite {
+  color: grey; 
+}
+
+p {
+  font-family: 'Karla';
+  font-size: 16px;
+  font-weight: normal;
+}
+

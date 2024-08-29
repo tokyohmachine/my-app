@@ -22,9 +22,9 @@ This project is the Capstone of the Meta Frontend Developer Course. The project 
 - **React Router**: For navigation between pages.
 
 
-### Little Lemon Restaurant Website
+### Little Lemon Restaurant Website0
 
-See page: [Little Lemon](https://tokyohmachine.github.io/flower-shop/)
+See page: [Little Lemon]([https://tokyohmachine.github.io/my-app](https://tokyohmachine.github.io/my-app))
 
 ## Preview
 ![Little Lemon](https://github.com/tokyohmachine/my-app/blob/master/public/images/Screenshot%20Little-lemon.png)

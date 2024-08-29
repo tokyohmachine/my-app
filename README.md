@@ -27,7 +27,7 @@ This project is the Capstone of the Meta Frontend Developer Course. The project 
 See page: [Little Lemon]([https://tokyohmachine.github.io/my-app](https://tokyohmachine.github.io/my-app))
 
 ## Preview
-![Little Lemon](https://tokyohmachine.github.io/my-app/)
+See page: [Little Lemon](https://tokyohmachine.github.io/my-app/)
 
 
 ![Reserve table](https://github.com/tokyohmachine/my-app/blob/master/public/images/Screenshot%20Reserve-table.png)

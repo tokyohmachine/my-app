@@ -1,15 +1,9 @@
 # Little Lemon Restaurant Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See page: [Little Lemon](https://tokyohmachine.github.io/flower-shop/)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-### `npm test`
-
-
+## Preview
+![Little Lemon](https://github.com/tokyohmachine/)
 
 
 

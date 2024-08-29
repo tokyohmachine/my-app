@@ -24,11 +24,11 @@ This project is the Capstone of the Meta Frontend Developer Course. The project 
 
 ### Little Lemon Restaurant Website0
 
-See page: [Little Lemon]([https://tokyohmachine.github.io/my-app](https://tokyohmachine.github.io/my-app))
+See page: [Little Lemon]([https://tokyohmachine.github.io/my-app](https://tokyohmachine.github.io/my-app)
+
 
 ## Preview
-See page: [Little Lemon Home]([https://tokyohmachine.github.io/my-app/](https://github.com/tokyohmachine/my-app/blob/master/public/images/Screenshot%20Little-lemon.png))
-
+![Little Lemon Home](https://github.com/tokyohmachine/my-app/blob/master/public/images/Screenshot%20Little-lemon.png)
 
 ![Reserve table](https://github.com/tokyohmachine/my-app/blob/master/public/images/Screenshot%20Reserve-table.png)
 

@@ -3,7 +3,7 @@
 See page: [Little Lemon](https://tokyohmachine.github.io/flower-shop/)
 
 ## Preview
-![Little Lemon](https://github.com/tokyohmachine/)
+![Little Lemon](https://github.com/tokyohmachine/my-app/blob/master/public/images/Screenshot%20Little-lemon.png)
 
 
 

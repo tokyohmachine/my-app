@@ -1,7 +1,5 @@
 # Capstone Project: Meta Frontend Developer Course 
 
-# Capstone Project: Meta Frontend Developer Course
-
 ## Project Overview
 
 This project is the Capstone of the Meta Frontend Developer Course. The project aims to create an interactive and responsive web application, following the best UI and UX practices learned throughout the course. The application is built using React and Bootstrap and includes the following main components:
